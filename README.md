@@ -10,7 +10,18 @@
 
 ## Follow me
 
-You can find me on [Medium](https://medium.com/@varunpvp), or [LinkedIn](https://in.linkedin.com/in/varun-pujari)
+<p align="center">
+<a href="https://www.linkedin.com/in/varun-pujari/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>&nbsp;&nbsp;
+<a href="https://medium.com/@varunpvp">
+  <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
+</a>&nbsp;&nbsp;
+<a href="mailto:varunpvp@gmail.com">
+  <img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+</a>&nbsp;&nbsp;
+</p>
+
 
 ## Stats
 
