@@ -25,4 +25,6 @@
 
 ## Stats
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=varunpvp)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=varunpvp)
+
+![Github Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=varunpvp&hide=php&layout=compact)
